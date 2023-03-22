@@ -1,1 +1,2 @@
-# ejercicio2
+# ejercicios
+Alumnos : Jorge Ledezma
