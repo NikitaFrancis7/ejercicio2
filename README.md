@@ -1,7 +1,12 @@
 <<<<<<< HEAD
-# ejercicio2
-adan alberto llanos zela
+Francis Suma
+function calcularSuma(num1, num2) {
+    return num1 + num2;
+  }
+  console.log(calcularResta(22,77))
+
+  
 =======
-# ejercicios
-Alumnos : Jorge Ledezma
->>>>>>> develop
+Función Suma
+Francis Nicole Baños Flores
+>>>>>>> 9fc7b31c13dbfcd3d526fe76aa9963364338ca9d
